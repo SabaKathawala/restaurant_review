@@ -1,3 +1,8 @@
+# Created By
+sabaskathawala@gmail.com
+Dtdtripathi45@gmail.com
+ejakash1992@gmail.com
+
 # Restaurant_Reviews_Fsociety
 Application which provides a platform to give and read reviews of restaurants
 
