@@ -17,7 +17,7 @@ Technology Used:
 The app runs on node - express platform. It requires node v8.
 The app runs on a VM provided by google cloud service.
 
-The url is https://rreviews.uicbits.net ( *The Link is down until GCP Billing is relolved)
+The url is https://rreviews.uicbits.net ( *The Link is down until GCP Billing is resolved)
 
 We use nginx to run the web server. And configured it to port forward traffic from
 http and https ports to the node engine. The UI done using html/bootstrap/Jquery/JS.
